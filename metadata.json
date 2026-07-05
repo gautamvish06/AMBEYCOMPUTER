@@ -1,0 +1,6 @@
+{
+  "name": "Simple CRM",
+  "description": "एक आसान और हिंदी-समर्थित CRM जिसमें वर्कर मैनेजमेंट, कंपनी के कामों का असाइनमेंट, और प्रति पीस (per piece) के हिसाब से पेमेंट और प्रोग्रेस ट्रैक की जा सकती है।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
